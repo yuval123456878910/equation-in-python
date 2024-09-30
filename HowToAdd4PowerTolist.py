@@ -19,7 +19,7 @@ for i in text:
 if hen != "":
     poc.append(hen)
 
-# key part if i int text not equls to +,-,/,* its store the number in hen if its equls its relis to poc.
+# key part if i int text not equls to + or - or / or * its store the number in hen if its equls its relis to poc.
 # if its hen stil store deta its relis to poc.
 
 print(poc)
